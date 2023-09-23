@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Monisha",
+      "lastName": "J",
+      "email": "moni@gmail.com",
+      "dob": "1997-05-30T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Euroland",
+      "experience": 3,
+      "package": 7,
+      "id": 1
+    },
+    {
+      "firstName": "Vignesh",
+      "lastName": "V",
+      "email": "vicky@gmail.com",
+      "dob": "2000-11-16T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Euroland",
+      "experience": 2,
+      "package": 12,
+      "id": 2
+    }
+  ]
+}

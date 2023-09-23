@@ -1,4 +1,12 @@
 .example-spacer {
-    flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.main-table {
+  margin: 0 auto;
+  padding-top: 30px;
+  max-width: 80%;
+  mat-form-field {
+    width: 100%;
   }
-  
+}
